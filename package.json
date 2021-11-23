@@ -1,0 +1,11 @@
+{
+  "name": "nodeperformance",
+  "version": "1.0.0",
+  "description": "node inner working concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aaron",
+  "license": "ISC"
+}
