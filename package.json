@@ -4,7 +4,8 @@
   "description": "node inner working concepts",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pm2-multi-core": "pm2 start index.js -i 0"
   },
   "author": "aaron",
   "license": "ISC",
